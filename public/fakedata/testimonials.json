@@ -1,0 +1,36 @@
+[
+	{
+		"id": 1,
+		"authorName": "Netochukwu",
+		"authorDesig": "Founder, KB Matrix",
+		"img": "/images/testimonial/h1-test-1.webp",
+		"img2": "/images/testimonial/h3-test-1.png",
+		"logoImg": "/img/testimonials/logo/1.png",
+		"logoImgLight": "/img/testimonials/logo/1-dark.png",
+		"thumbImg": "/img/testimonials/user/testmonial-7-thumb.jpg",
+		"desc": "Our experience with UX Geek has been nothing short of exceptional. From day one, their team of experts demonstrated a deep understanding of our users and quickly identified key areas for improvement. Their recommendations were not only innovative but also practical, leading to a significant increase in user satisfaction."
+	},
+	{
+		"id": 2,
+		"authorName": "Anthony",
+		"authorDesig": "Founder, Spaccy Innovations LTD",
+		"img": "/images/testimonial/h1-test-2.webp",
+		"img2": "/images/testimonial/h1-test-2.webp",
+		"logoImg": "/img/testimonials/logo/2.png",
+		"logoImgLight": "/img/testimonials/logo/2-dark.png",
+		"thumbImg": "/img/testimonials/user/h10-test.png",
+		"desc": "Working with UX Geek has been a game-changer for our business. Their team of experts took the time to understand our unique challenges and goals, and they delivered a comprehensive UX strategy that has transformed our digital presence. The results have been outstanding, with increased user engagement and higher conversion rates."
+	},
+	{
+		"id": 3,
+		"authorName": "Ifure",
+		"authorDesig": "Product Manager",
+		"img": "/images/testimonial/h1-test-3.webp",
+		"img2": "/images/testimonial/h1-test-3.webp",
+		"logoImg": "/img/testimonials/logo/3.png",
+		"logoImgLight": "/img/testimonials/logo/3-dark.png",
+		"thumbImg": "/img/testimonials/user/h10-test.png",
+		"desc": "UX Geek has been an invaluable partner in our journey to enhance our user experience. Their team of experts provided us with actionable insights and practical solutions that have significantly improved our product's usability and overall user satisfaction. We highly recommend their services to any business looking to elevate their UX."
+	}
+	
+]

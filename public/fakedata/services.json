@@ -1,0 +1,249 @@
+[
+	{
+		"id": 1,
+		"title": "UX Audit and Consultation",
+		"titleLarge": "Clarity through expert experience review",
+		"img": "/images/service/h1-service-1.webp",
+		"imgSm": "/img/icons/services-10-icons-1.svg",
+		"bgImg": "/images/service/h1-service-1.webp",
+		"bgImg2": "/images/service/h3-service-1.webp",
+		"iconName": "tji-optimization",
+		"svg": "/images/icons/service-1.svg",
+
+		"desc": "In today's dynamic business environment, to know to success lies strategic planning and operationals business success execution.",
+		"shortDesc": "Ensure your website looks great on any device,with layouts that adapt to different screen sizes seamlessly.",
+		"desc1": "A UX Audit and Consultation is a structured evaluation of your digital product to uncover usability gaps, friction points, and missed opportunities that may be affecting user satisfaction or revenue. At UX Geek, we carefully assess your website or application through expert analysis, behavioral insights, and proven UX frameworks. We examine navigation, content clarity, interaction patterns, accessibility, and conversion flows to identify where users may feel confused, frustrated, or overwhelmed.",
+		"desc2": "Beyond simply pointing out issues, we translate findings into actionable recommendations. You receive a clear, prioritized roadmap showing what to fix, why it matters, and how it impacts business outcomes. Whether you are experiencing low conversions, high drop-offs, or inconsistent engagement, this service gives you clarity and direction grounded in user behavior and strategic thinking.",
+		"totalProject": "10 Projects",
+		"overview1": "Identify usability gaps impacting user satisfaction and conversions.",
+		"overview2": "Expert evaluation uncovering friction across user journeys.",
+		"overview3": "Diagnose experience weaknesses affecting product performance.",
+		"overview4": "Strategic review aligning UX improvements with business goals.",
+		"process": {
+			"title": "Services Process",
+			"titleLarge": "Strategic planning and execution in the comprehensive process of formulating goals",
+			"img": "/img/services/service-details.jpg",
+			"imgSm": "/img/icons/services-10-icons-2.svg",
+			"bgImg": "/images/service/h1-service-1.webp",
+			"bgImg2": "/images/service/h3-service-1.webp",
+			"iconName": "flaticon-ux-design ",
+			"svg": "/images/icons/service-1.svg",
+
+			"desc": "In today's dynamic business environment, to know to success lies strategic planning and operationals business success execution.",
+			"processItems": [
+				"Reinvent Your Business to Better",
+				"Pioneering the Internet's First",
+				"Pioneering the Design World's First",
+				"Pioneering the Design World's First",
+				"Pioneering the Design World's First",
+				"Pioneering the Design World's First"
+			]
+		}
+	},
+	{
+		"id": 2,
+		"title": "Usabiltiy Testing",
+		"titleLarge": "Real user insights. Real product improvements.",
+		"img": "/images/service/h1-service-2.webp",
+		"imgSm": "/img/icons/services-10-icons-3.svg",
+		"bgImg": "/images/service/h1-service-2.webp",
+		"bgImg2": "/images/service/h3-service-2.webp",
+		"iconName": "tji-strategic",
+		"svg": "/images/icons/service-2.svg",
+
+		"desc": "bla bla bla",
+		"shortDesc": "Set up user-friendly CMS solutions like WordPress or custom-built options so clients can manage content  easily.",
+		"desc1": "Usability Testing allows you to observe real users interacting with your product before assumptions turn into costly mistakes. At UX Geek, we implement structured test scenarios (virtually and physically) that reflect real-life tasks, then analyze how users navigate, interpret information, and complete actions. This process reveals where users hesitate, misinterpret instructions, or abandon tasks, insights that analytics alone cannot provide.",
+		"desc2": "We transform observations into practical design improvements that enhance ease of use, clarity, and overall experience. Instead of relying on internal opinions, you gain direct evidence of how your product performs in the hands of your audience. The result is a more intuitive product that builds trust, reduces frustration, and improves engagement.",
+		"totalProject": "11 Projects",
+		"overview1": "Observe real users interacting with your product.",
+		"overview2": "Validate design decisions through structured user testing.",
+		"overview3": "Identify confusion, hesitation, and task barriers.",
+		"overview4": "Improve usability using evidence-based user feedback.",
+		"process": {
+			"title": "Services Process",
+			"titleLarge": "Strategic planning and execution in the comprehensive process of formulating goals",
+			"img": "/img/services/service-details.jpg",
+			"imgSm": "/img/icons/services-10-icons-1.svg",
+			"bgImg": "/images/service/h1-service-1.webp",
+			"bgImg2": "/images/service/h3-service-1.webp",
+			"iconName": "flaticon-design",
+			"svg": "/images/icons/service-2.svg",
+
+			"desc": "In today's dynamic business environment, to know to success lies strategic planning and operationals business success execution.",
+			"processItems": [
+				"Reinvent Your Business to Better",
+				"Pioneering the Internet's First",
+				"Pioneering the Design World's First",
+				"Pioneering the Design World's First",
+				"Pioneering the Design World's First",
+				"Pioneering the Design World's First"
+			]
+		}
+	},
+	{
+		"id": 3,
+		"title": "UX Maturity Assessment",
+		"titleLarge": "Evaluating and elevating your UX capability",
+		"img": "/images/service/h1-service-3.webp",
+		"imgSm": "/img/icons/services-10-icons-1.svg",
+		"bgImg": "/images/service/h1-service-3.webp",
+		"bgImg2": "/images/service/h3-service-3.webp",
+		"iconName": "tji-leadership",
+		"svg": "/images/icons/service-3.svg",
+
+		"desc": "In today's dynamic business environment, to know to success lies strategic planning and operationals business success execution.",
+		"shortDesc": "Build and integrate APIs to connect websites with third-party applications, enhancing functionality and performance.",
+		"desc1": "A UX Maturity Assessment evaluates how deeply user-centered thinking is embedded within your organization. It examines your processes, team structure, research practices, leadership alignment, and design workflows to determine whether UX is reactive, structured, or strategically integrated into decision-making.",
+		"desc2": "This service is particularly valuable for growing teams that want to scale intentionally. We provide a clear maturity score, identify structural gaps, and outline a practical growth path tailored to your organization. By strengthening your UX foundation, you move from making isolated design improvements to building a sustainable, user-focused culture that supports long-term product success.",
+		"totalProject": "15 Projects",
+		"overview1": "Measure your organization’s UX capability and growth stage.",
+		"overview2": "Evaluate UX processes, structure, and strategic alignment.",
+		"overview3": "Assess how deeply user-centered thinking exists.",
+		"overview4": "Create a roadmap for scalable UX integration.",
+		"process": {
+			"title": "Services Process",
+			"titleLarge": "Strategic planning and execution in the comprehensive process of formulating goals",
+			"img": "/img/services/service-details.jpg",
+			"imgSm": "/img/icons/services-10-icons-1.svg",
+			"bgImg": "/images/service/h1-service-1.webp",
+			"bgImg2": "/images/service/h3-service-1.webp",
+			"iconName": "flaticon-design",
+			"svg": "/images/icons/service-3.svg",
+
+			"desc": "In today's dynamic business environment, to know to success lies strategic planning and operationals business success execution.",
+			"processItems": [
+				"Reinvent Your Business to Better",
+				"Pioneering the Internet's First",
+				"Pioneering the Design World's First",
+				"Pioneering the Design World's First",
+				"Pioneering the Design World's First",
+				"Pioneering the Design World's First"
+			]
+		}
+	},
+	{
+		"id": 4,
+		"title": "Customized User Research",
+		"titleLarge": "Research designed around your users",
+		"img": "/images/service/h1-service-4.webp",
+		"imgSm": "/img/icons/services-10-icons-1.svg",
+		"bgImg": "/images/service/h1-service-4.webp",
+		"bgImg2": "/images/service/h3-service-4.webp",
+		"iconName": "tji-business",
+		"svg": "/images/icons/service-1.svg",
+
+		"desc": "In today's dynamic business environment, to know to success lies strategic planning and operationals business success execution.",
+		"shortDesc": "Refresh outdated websites with modern, appealing designs that align with current brand goals and user expectations.",
+		"desc1": "Rather than relying on assumptions, UX Geek develops research plans tailored specifically to your product goals and target audience. Customized User Research helps you truly understand your users, their motivations, behaviors, frustrations, and decision-making patterns. This may include interviews, surveys, behavioral analysis, or journey mapping depending on what your business needs.",
+		"desc2": "The insights gathered inform smarter product decisions, clearer messaging, and more effective feature prioritization. When you understand why users behave the way they do, you can design solutions that feel natural and relevant. This service ensures your product is shaped by real human insight, not internal guesswork.",
+		"totalProject": "10 Projects",
+		"overview1": "Uncover real user motivations and behaviors.",
+		"overview2": "Replace assumptions with actionable research insights.",
+		"overview3": "Design research tailored to product goals.",
+		"overview4": "Inform smarter decisions through targeted user insights.",
+		"process": {
+			"title": "Services Process",
+			"titleLarge": "Strategic planning and execution in the comprehensive process of formulating goals",
+			"img": "/img/services/service-details.jpg",
+			"imgSm": "/img/icons/services-10-icons-1.svg",
+			"bgImg": "/images/service/h1-service-1.webp",
+			"bgImg2": "/images/service/h3-service-1.webp",
+			"iconName": "flaticon-design",
+			"svg": "/images/icons/service-1.svg",
+
+			"desc": "In today's dynamic business environment, to know to success lies strategic planning and operationals business success execution.",
+			"processItems": [
+				"Reinvent Your Business to Better",
+				"Pioneering the Internet's First",
+				"Pioneering the Design World's First",
+				"Pioneering the Design World's First",
+				"Pioneering the Design World's First",
+				"Pioneering the Design World's First"
+			]
+		}
+	},
+	{
+		"id": 5,
+		"title": "Product Feature Mapping",
+		"titleLarge": "Strategic structure for smarter features",
+		"img": "/images/service/h1-service-5.webp",
+		"imgSm": "/img/icons/services-10-icons-1.svg",
+		"bgImg": "/images/service/h1-service-5.webp",
+		"bgImg2": "/images/service/h3-service-1.webp",
+		"iconName": "tji-executive",
+		"svg": "/images/icons/service-1.svg",
+
+		"desc": "In today's dynamic business environment, to know to success lies strategic planning and operationals business success execution.",
+		"shortDesc": "Refresh outdated websites with modern, appealing designs that align with current brand goals and user expectations.",
+		"desc1": "Product Feature Mapping provides strategic clarity on what your product should offer and how features connect to real user needs. Many products become overloaded with features that add complexity without adding value. At UX Geek, we analyze your product goals, user expectations, and business objectives to define a focused and purposeful feature structure.",
+		"desc2": "We organize features into logical flows and priority levels, ensuring every addition serves a measurable purpose. This prevents feature creep, improves usability, and strengthens product positioning. The outcome is a streamlined product experience where users can easily understand what your product does and how it benefits them.",
+		"totalProject": "10 Projects",
+		"overview1": "Align features with user and business priorities.",
+		"overview2": "Organize functionalities into structured product roadmaps.",
+		"overview3": "Prevent feature overload through strategic prioritization.",
+		"overview4": "Define purposeful features that drive measurable value.",
+		"process": {
+			"title": "Services Process",
+			"titleLarge": "Strategic planning and execution in the comprehensive process of formulating goals",
+			"img": "/img/services/service-details.jpg",
+			"imgSm": "/img/icons/services-10-icons-1.svg",
+			"bgImg": "/images/service/h1-service-1.webp",
+			"bgImg2": "/images/service/h3-service-1.webp",
+			"iconName": "flaticon-design",
+			"svg": "/images/icons/service-1.svg",
+
+			"desc": "In today's dynamic business environment, to know to success lies strategic planning and operationals business success execution.",
+			"processItems": [
+				"Reinvent Your Business to Better",
+				"Pioneering the Internet's First",
+				"Pioneering the Design World's First",
+				"Pioneering the Design World's First",
+				"Pioneering the Design World's First",
+				"Pioneering the Design World's First"
+			]
+		}
+	},
+	{
+		"id": 6,
+		"title": "UX Team Training",
+		"titleLarge": "Building confident, user-centered teams",
+		"img": "/images/service/h1-service-6.webp",
+		"imgSm": "/img/icons/services-10-icons-1.svg",
+		"bgImg": "/images/service/h1-service-6.webp",
+		"bgImg2": "/images/service/h3-service-1.webp",
+		"iconName": "tji-process",
+		"svg": "/images/icons/service-1.svg",
+
+		"desc": "In today's dynamic business environment, to know to success lies strategic planning and operationals business success execution.",
+		"shortDesc": "Refresh outdated websites with modern, appealing designs that align with current brand goals and user expectations.",
+		"desc1": "UX Team Training equips your internal team with practical knowledge and tools to design more effectively and collaboratively. Rather than abstract theory, UX Geek delivers structured sessions focused on real-world application, including user research methods, usability principles, design thinking, accessibility, and performance optimization.",
+		"desc2": "This service is ideal for organizations seeking to improve cross-functional collaboration between product managers, designers, and developers. By building shared understanding and practical capability, your team becomes more confident in making user-centered decisions. The long-term benefit is a more consistent, scalable, and strategically aligned product development process.",
+		"totalProject": "10 Projects",
+		"overview1": "Build practical, user-centered design capabilities internally.",
+		"overview2": "Strengthen collaboration across product and engineering teams.",
+		"overview3": "Equip teams with applied UX methodologies.",
+		"overview4": "Scale UX knowledge across your organization.",
+		"process": {
+			"title": "Services Process",
+			"titleLarge": "Strategic planning and execution in the comprehensive process of formulating goals",
+			"img": "/img/services/service-details.jpg",
+			"imgSm": "/img/icons/services-10-icons-1.svg",
+			"bgImg": "/images/service/h1-service-1.webp",
+			"bgImg2": "/images/service/h3-service-1.webp",
+			"iconName": "flaticon-design",
+			"svg": "/images/icons/service-1.svg",
+
+			"desc": "In today's dynamic business environment, to know to success lies strategic planning and operationals business success execution.",
+			"processItems": [
+				"Reinvent Your Business to Better",
+				"Pioneering the Internet's First",
+				"Pioneering the Design World's First",
+				"Pioneering the Design World's First",
+				"Pioneering the Design World's First",
+				"Pioneering the Design World's First"
+			]
+		}
+	}
+	
+]
