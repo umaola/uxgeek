@@ -77,9 +77,9 @@ const PricingPlan3 = () => {
 											<span className="period">
 											from
 											</span>
-											<span className="dollar">₦</span>
+											<span className="dollar">$</span>
 											<span className="price-number">
-												1million
+												1000
 											</span>
 											
 										</div>
@@ -98,15 +98,15 @@ const PricingPlan3 = () => {
 											<h4 className="title">
 												UX Growth <span>Recommended</span>
 											</h4>
-											<div className="desc">Perfect larger product</div>
+											<div className="desc">Medium size product</div>
 										</div>
 										<div className="price">
 											<span className="period">
 											from
 											</span>
-											<span className="dollar">₦</span>
+											<span className="dollar">$</span>
 											<span className="price-number">
-												3million
+												3000
 											</span>
 											
 										</div>
@@ -125,15 +125,15 @@ const PricingPlan3 = () => {
 											<h4 className="title">
 												UX Scale 
 											</h4>
-											<div className="desc">Perfect for a series C</div>
+											<div className="desc">Perfect for Large scale</div>
 										</div>
 										<div className="price">
 											<span className="period">
 											from
 											</span>
-											<span className="dollar">₦</span>
+											<span className="dollar">$</span>
 											<span className="price-number">
-												5million
+												5000
 											</span>
 											
 										</div>
@@ -296,20 +296,21 @@ const PricingPlan3 = () => {
 
 										<div className="content">
 											<h4 className="title">
-												Basic <span>Save 20%</span>
+												UX Foundation
 											</h4>
-											<div className="desc">Perfect for a small teams</div>
+											<div className="desc">Perfect Startups</div>
 										</div>
 										<div className="price">
+											<span className="period">
+												from
+											</span>
 											<div>
 												<span className="dollar">$</span>
 												<span className="price-number">
-													{isYearlyPlan ? 80 : 20}
+													1000
 												</span>
 											</div>
-											<span className="period">
-												/{isYearlyPlan ? "year" : "month"}
-											</span>
+											
 										</div>
 									</div>
 
@@ -319,38 +320,35 @@ const PricingPlan3 = () => {
 										data-bs-parent="#pricingAccordion"
 									>
 										<div className="tab_content accordion-body">
-											<div className="pricing-badge">Recommended</div>
+											{/* <div className="pricing-badge">Recommended</div> */}
 
 											<ul className="features">
-												<li className="active">
-													<i className="tji-double-check"></i> Our in-depth
-													consultation is more than just a conversation
-												</li>
-												<li className="active">
-													<i className="tji-double-check"></i> Standard business
-													performance package
-												</li>
-												<li className="active">
-													<i className="tji-double-check"></i> Quick email
-													support with priority access to our consulting
-												</li>
-												<li className="active">
-													<i className="tji-double-check"></i> Monthly strategic
-													check-In & progress review
-												</li>
-												<li className="active">
-													<i className="tji-double-check"></i> Progress reviews
-													& performance optimization
-												</li>
-												<li className="active">
-													<i className="tji-double-check"></i> Quick email
-													support with priority access to our consulting
-												</li>
-												<li>
-													<i className="tji-double-check"></i> 24/7 dedicated
-													business support
-												</li>
-											</ul>
+											<li className="active">
+												<i className="tji-double-check"></i> Product discovery session
+											</li>
+											<li className="active">
+												<i className="tji-double-check"></i> 1-2 Stakeholder interviews
+											</li>
+											<li className="active">
+												<i className="tji-double-check"></i> Heuristic UX audit (up to 20 key screens)
+											</li>
+											<li className="active">
+												<i className="tji-double-check"></i> Full User Quantitative analysis
+											</li>
+											<li className="active">
+												<i className="tji-double-check"></i> User flow audit (1 core flow)
+											</li>
+											<li className="active">
+												<i className="tji-double-check"></i> Friction & usability report
+											</li>
+											<li className="active">
+												<i className="tji-double-check"></i> 2 weeks post-delivery support
+											</li>
+											<li className="active">
+												<i className="tji-double-check"></i> 24/7 dedicated
+												business support
+											</li>
+										</ul>
 
 											<div className="buttons">
 												<ButtonPrimary
@@ -380,20 +378,21 @@ const PricingPlan3 = () => {
 
 										<div className="content">
 											<h4 className="title">
-												Business <span>Save 20%</span>
+												UX Growth
 											</h4>
-											<div className="desc">Perfect for a medium teams</div>
+											<div className="desc">For small & medium products</div>
 										</div>
 										<div className="price">
+											<span className="period">
+												from
+											</span>
 											<div>
 												<span className="dollar">$</span>
 												<span className="price-number">
-													{isYearlyPlan ? 100 : 40}
+													3000
 												</span>
 											</div>
-											<span className="period">
-												/{isYearlyPlan ? "year" : "month"}
-											</span>
+											
 										</div>
 									</div>
 
@@ -406,35 +405,31 @@ const PricingPlan3 = () => {
 											<div className="pricing-badge">Recommended</div>
 
 											<ul className="features">
-												<li className="active">
-													<i className="tji-double-check"></i> Our in-depth
-													consultation is more than just a conversation
-												</li>
-												<li className="active">
-													<i className="tji-double-check"></i> Standard business
-													performance package
-												</li>
-												<li className="active">
-													<i className="tji-double-check"></i> Quick email
-													support with priority access to our consulting
-												</li>
-												<li className="active">
-													<i className="tji-double-check"></i> Monthly strategic
-													check-In & progress review
-												</li>
-												<li className="active">
-													<i className="tji-double-check"></i> Progress reviews
-													& performance optimization
-												</li>
-												<li className="active">
-													<i className="tji-double-check"></i> Quick email
-													support with priority access to our consulting
-												</li>
-												<li>
-													<i className="tji-double-check"></i> 24/7 dedicated
-													business support
-												</li>
-											</ul>
+											<li className="active">
+												<i className="tji-double-check"></i> UX audit (up to 40 screens)
+											</li>
+											<li className="active">
+												<i className="tji-double-check"></i> Competitive UX benchmarking (2 competitors)
+											</li>
+											<li className="active">
+												<i className="tji-double-check"></i> Conversion path analysis
+											</li>
+											<li className="active">
+												<i className="tji-double-check"></i> Remote Usability testing by 5 participants
+											</li>
+											<li className="active">
+												<i className="tji-double-check"></i> High-fidelity UI design (up to 10 screens)
+											</li>
+											<li className="active">
+												<i className="tji-double-check"></i> Advanced UX strategy document
+											</li>
+											<li className="active">
+												<i className="tji-double-check"></i> Personalized Executive UX presentation deck
+											</li>
+											<li className="active">
+												<i className="tji-double-check"></i> 30 days advisory support
+											</li>
+										</ul>
 
 											<div className="buttons">
 												<ButtonPrimary
@@ -464,20 +459,21 @@ const PricingPlan3 = () => {
 
 										<div className="content">
 											<h4 className="title">
-												Enterprise <span>Save 20%</span>
+												UX Scale
 											</h4>
-											<div className="desc">Perfect for a large teams</div>
+											<div className="desc">Best for Large Scale Products</div>
 										</div>
 										<div className="price">
+											<span className="period">
+												from
+											</span>
 											<div>
 												<span className="dollar">$</span>
 												<span className="price-number">
-													{isYearlyPlan ? 120 : 80}
+													5000
 												</span>
 											</div>
-											<span className="period">
-												/{isYearlyPlan ? "year" : "month"}
-											</span>
+											
 										</div>
 									</div>
 
@@ -487,39 +483,37 @@ const PricingPlan3 = () => {
 										data-bs-parent="#pricingAccordion"
 									>
 										<div className="tab_content accordion-body">
-											<div className="pricing-badge">Recommended</div>
+											{/* <div className="pricing-badge">Recommended</div> */}
 
-											<ul className="features">
-												<li className="active">
-													<i className="tji-double-check"></i> Our in-depth
-													consultation is more than just a conversation
-												</li>
-												<li className="active">
-													<i className="tji-double-check"></i> Standard business
-													performance package
-												</li>
-												<li className="active">
-													<i className="tji-double-check"></i> Quick email
-													support with priority access to our consulting
-												</li>
-												<li className="active">
-													<i className="tji-double-check"></i> Monthly strategic
-													check-In & progress review
-												</li>
-												<li className="active">
-													<i className="tji-double-check"></i> Progress reviews
-													& performance optimization
-												</li>
-												<li className="active">
-													<i className="tji-double-check"></i> Quick email
-													support with priority access to our consulting
-												</li>
-												<li>
-													<i className="tji-double-check"></i> 24/7 dedicated
-													business support
-												</li>
-											</ul>
-
+										<ul className="features">
+											<li className="active">
+												<i className="tji-double-check"></i> Full UX Audit sprint
+											</li>
+											<li className="active">
+												<i className="tji-double-check"></i> Journey mapping
+											</li>
+											<li className="active">
+												<i className="tji-double-check"></i> Advanced analytics behavior review
+											</li>
+											<li className="active">
+												<i className="tji-double-check"></i> UX Maturity Assessment
+											</li>
+											<li className="active">
+												<i className="tji-double-check"></i> End-to-end product flow redesign
+											</li>
+											<li className="active">
+												<i className="tji-double-check"></i> High-fidelity UI design (up to 25 screens)
+											</li>
+											<li className="active">
+												<i className="tji-double-check"></i> Design system foundation
+											</li>
+											<li className="active">
+												<i className="tji-double-check"></i> Personalized Executive UX presentation deck
+											</li>
+											<li className="active">
+												<i className="tji-double-check"></i> 60 days strategic advisory support
+											</li>
+										</ul>
 											<div className="buttons">
 												<ButtonPrimary
 													text={"Choose package"}

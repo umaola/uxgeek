@@ -73,7 +73,7 @@ const Hero8 = () => {
 									data-wow-delay="2s"
 								>
 									<Image
-										src="/images/hero/h8-hero-banner-sm.webp"
+										src="/images/hero/h8-banner.jpg"
 										alt=""
 										width={402}
 										height={217}

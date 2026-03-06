@@ -20,7 +20,7 @@ const MobileMenu = ({ isMobileMenuOpen, handleMobileToggler }) => {
 					<div className="hamburger_top d-flex align-items-center justify-content-between">
 						<div className="hamburger_logo">
 							<Link href="/" className="mobile_logo">
-								<img src="/images/logos/primary-logo.png" alt="Logo" />
+								<img src="/images/logos/primary-logo.svg" alt="Logo" />
 							</Link>
 						</div>
 						<div className="hamburger_close">
@@ -32,7 +32,7 @@ const MobileMenu = ({ isMobileMenuOpen, handleMobileToggler }) => {
 							</button>
 						</div>
 					</div>
-					<div className="hamburger_search">
+					{/* <div className="hamburger_search">
 						<form method="get" action="#0">
 							<button type="submit">
 								<i className="fal fa-search"></i>
@@ -44,7 +44,7 @@ const MobileMenu = ({ isMobileMenuOpen, handleMobileToggler }) => {
 								placeholder="Search here"
 							/>
 						</form>
-					</div>
+					</div> */}
 					<MobileNavbar />
 					<div className="hamburger-infos">
 						<h4 className="hamburger-title">Contact info</h4>
@@ -74,13 +74,13 @@ const MobileMenu = ({ isMobileMenuOpen, handleMobileToggler }) => {
 					<div className="hamburger-socials">
 						<h4 className="hamburger-title">Follow us</h4>
 						<ul>
-							<li>
+							{/* <li>
 								<Link href="https://www.facebook.com/">
 									<i className="fa-brands fa-facebook-f"></i>
 								</Link>
-							</li>
+							</li> */}
 							<li>
-								<Link href="https://www.instagram.com/">
+								<Link href="https://www.instagram.com/uxgeek.tech/">
 									<i className="fa-brands fa-instagram"></i>
 								</Link>
 							</li>
@@ -91,7 +91,7 @@ const MobileMenu = ({ isMobileMenuOpen, handleMobileToggler }) => {
 							</li>
 							<li>
 								<Link href="https://x.com/">
-									<i className="fa-brands fa-twitter"></i>
+									<i className="fa-brands fa-tiktok"></i>
 								</Link>
 							</li>
 						</ul>
