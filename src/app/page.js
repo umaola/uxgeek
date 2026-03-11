@@ -16,6 +16,7 @@ import Testimonials7 from "@/components/sections/testimonials/Testimonials7";
 import FeatureMarquee3 from "@/components/shared/marquee/FeatureMarquee3";
 import TjMagicCursor from "@/components/shared/others/TjMagicCursor";
 import ClientWrapper from "@/components/shared/wrappers/ClientWrapper";
+import { SpeedInsights } from "@vercel/speed-insights/react";
 
 export default function Home8() {
 	return (
@@ -41,6 +42,7 @@ export default function Home8() {
 			<Footer8 />
 			<ClientWrapper />
 			<TjMagicCursor />
+			<SpeedInsights/>
 		</div>
 	);
 }
