@@ -14,9 +14,9 @@ const PricingPlanItems = ({ isYearlyPlan }) => {
 								from
 							</span>
 							<span> </span>
-							<span className="pricing__package-currency">₦</span>
+							<span className="pricing__package-currency">$</span>
 							<span className="price-number" style={{fontSize: '2rem'}}>
-								1,000,000
+								1000
 							</span>
 							
 						</div>
@@ -80,12 +80,12 @@ const PricingPlanItems = ({ isYearlyPlan }) => {
 							>
 								from
 							</span>
-							<span className="pricing__package-currency">₦</span>
+							<span className="pricing__package-currency">$</span>
 							<span
 								className="price-number"
 								 style={{fontSize: '2rem'}}
 							>
-								3,000,000
+								3000
 							</span>
 						</div>
 						<div className="pricing__package-desc">
@@ -145,12 +145,12 @@ const PricingPlanItems = ({ isYearlyPlan }) => {
 							>
 								from
 							</span>
-							<span className="pricing__package-currency">₦</span>
+							<span className="pricing__package-currency">$</span>
 							<span
 								className="price-number"
 								 style={{fontSize: '2rem'}}
 							>
-								5,000,000
+								5000
 							</span>
 						
 						</div>
