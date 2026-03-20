@@ -55,7 +55,7 @@ const PricingPlanItems = ({ isYearlyPlan }) => {
 						</ul>
 					</div>
 					<div className="pricing__btn">
-						<Link href="/contact">
+						<Link href="https://tr.ee/bBVLo3x2Xu" target="_blank" rel="noopener noreferrer">
 							<div className="btn-text">
 								<span>Chose package</span>
 							</div>
@@ -123,7 +123,7 @@ const PricingPlanItems = ({ isYearlyPlan }) => {
 						</ul>
 					</div>
 					<div className="pricing__btn active">
-						<Link href="/contact">
+						<Link href="https://tr.ee/bBVLo3x2Xu" target="_blank" rel="noopener noreferrer">
 							<div className="btn-text">
 								<span>Chose package</span>
 							</div>
@@ -192,7 +192,7 @@ const PricingPlanItems = ({ isYearlyPlan }) => {
 						</ul>
 					</div>
 					<div className="pricing__btn">
-						<Link href="/contact">
+						<Link href="https://tr.ee/bBVLo3x2Xu" target="_blank" rel="noopener noreferrer">
 							<div className="btn-text">
 								<span>Chose package</span>
 							</div>

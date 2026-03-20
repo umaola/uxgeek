@@ -180,7 +180,7 @@ const PricingPlan3 = () => {
 										</ul>
 
 										<div className="buttons">
-											<ButtonPrimary text={"Choose package"} url={"/contact"} />
+											<ButtonPrimary text={"Choose package"} url={"https://tr.ee/bBVLo3x2Xu"} target={"_blank"} rel={"noopener noreferrer"}/>
 											<Link className=" text-btn" href="/pricing-plan">
 												Price comparison <i className="tji-angle-right"></i>
 											</Link>
@@ -222,7 +222,7 @@ const PricingPlan3 = () => {
 										</ul>
 
 										<div className="buttons">
-											<ButtonPrimary text={"Choose package"} url={"/contact"} />
+											<ButtonPrimary text={"Choose package"} url={"https://tr.ee/bBVLo3x2Xu"} target={"_blank"} rel={"noopener noreferrer"}/>
 
 											<Link className=" text-btn" href="/pricing-plan">
 												Price comparison <i className="tji-angle-right"></i>
@@ -268,7 +268,7 @@ const PricingPlan3 = () => {
 										</ul>
 
 										<div className="buttons">
-											<ButtonPrimary text={"Choose package"} url={"/contact"} />
+											<ButtonPrimary text={"Choose package"} url={"https://tr.ee/bBVLo3x2Xu"} target={"_blank"} rel={"noopener noreferrer"}/>
 
 											<Link className=" text-btn" href="/pricing-plan">
 												Price comparison <i className="tji-angle-right"></i>
@@ -353,7 +353,9 @@ const PricingPlan3 = () => {
 											<div className="buttons">
 												<ButtonPrimary
 													text={"Choose package"}
-													url={"/contact"}
+													url={"https://tr.ee/bBVLo3x2Xu"}
+													target={"_blank"}
+													rel={"noopener noreferrer"}
 												/>
 
 												<Link className=" text-btn" href="/pricing-plan">
@@ -434,7 +436,9 @@ const PricingPlan3 = () => {
 											<div className="buttons">
 												<ButtonPrimary
 													text={"Choose package"}
-													url={"/contact"}
+													url={"https://tr.ee/bBVLo3x2Xu"}
+													target={"_blank"}
+													rel={"noopener noreferrer"}
 												/>
 
 												<Link className=" text-btn" href="/pricing-plan">
@@ -517,7 +521,9 @@ const PricingPlan3 = () => {
 											<div className="buttons">
 												<ButtonPrimary
 													text={"Choose package"}
-													url={"/contact"}
+													url={"https://tr.ee/bBVLo3x2Xu"}
+													target={"_blank"}
+													rel={"noopener noreferrer"}
 												/>
 
 												<Link className=" text-btn" href="/pricing-plan">

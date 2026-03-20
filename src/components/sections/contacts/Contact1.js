@@ -9,10 +9,10 @@ const Contact1 = () => {
 			style={{ backgroundColor: "var(--tj-color-theme-dark)" }}
 		>
 			<div className="container">
-				<div className="row">
-					<div className="col-12">
+				<div className="row ">
+					<div className="col-12 align-items-center justify-content-center">
 						<div className="contact-wrapper">
-							<div className="contact-left-content">
+							<div className="col-12 contact-left-content">
 								<div className="sec-heading style-2">
 									<span
 										className="sub-title wow fadeInUp"
@@ -28,19 +28,21 @@ const Contact1 = () => {
 											Our mission is to empower businesses of all sizes create products that are user-friendly and effective. The success of many businesses today depends on the usability and accessibility of their product. We ensure your product is designed with the user in mind, making it easy to use and navigate, leading to increased customer satisfaction and loyalty.
 										</p>
 									</div>
-									{/* <div
+									<div
 										className="contact-button wow fadeInUp"
 										data-wow-delay="0.5s"
 									>
 										<ButtonPrimary
 											text={"Contact us"}
-											url={"/contact"}
-											className={"white-btn"}
+											url={"https://tr.ee/bBVLo3x2Xu"}
+											className={"white-btn "}
+											target={"_blank"}
+											rel={"noopener noreferrer"}
 										/>
-									</div> */}
+									</div>
 								</div>
 							</div>
-							<div
+							{/* <div
 								className="contact-form-one wow fadeInUp"
 								data-wow-delay="0.1s"
 							>
@@ -134,7 +136,7 @@ const Contact1 = () => {
 										</div>
 									</div>
 								</form>
-							</div>
+							</div> */}
 						</div>
 					</div>
 				</div>
