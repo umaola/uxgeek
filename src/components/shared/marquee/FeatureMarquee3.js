@@ -6,20 +6,20 @@ const FeatureMarquee3 = () => {
 	const marqueeItems = [
 		"Expertise",
 		"Consulting",
-		"Business",
-		"Growth",
+		"FinTech",
+		"Scale",
 		"Expertise",
 		"Consulting",
-		"Business",
-		"Growth",
+		"FinTech",
+		"Scale",
 		"Expertise",
 		"Consulting",
-		"Business",
-		"Growth",
+		"FinTech",
+		"Scale",
 		"Expertise",
 		"Consulting",
-		"Business",
-		"Growth",
+		"FinTech",
+		"Scale",
 	];
 
 	return (

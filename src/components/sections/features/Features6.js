@@ -16,8 +16,8 @@ const Features6 = () => {
 	);
 	const features = [
 		{
-			title: "In-depth research",
-			desc: "Our team of experts conducts in-depth user qualitative and quantitative research.",
+			title: "Transaction Usability",
+			desc: "Our experts conduct remote and localized usability testing for your transaction flows.",
 			icon: (
 				<svg
 					width="81"
@@ -63,8 +63,8 @@ const Features6 = () => {
 			),
 		},
 		{
-			title: "Expert advice",
-			desc: "Our consultancy excels in providing expert advice tailored to your business challenges",
+			title: "Trust Consulting",
+			desc: "We bridge the gap between complex financial data and human psychology",
 			icon: (
 				<svg
 					width="80"
@@ -124,8 +124,8 @@ const Features6 = () => {
 			),
 		},
 		{
-			title: "Strategic planning",
-			desc: "We offer a personalized UX strategy tailored to your user and business needs.",
+			title: "Strategic Planning",
+			desc: "We offer a personalized UX strategy tailored to your user and Fintech needs.",
 			icon: (
 				<svg
 					width="80"
@@ -158,7 +158,7 @@ const Features6 = () => {
 			),
 		},
 		{
-			title: "Efficient operations",
+			title: "Efficient Operations",
 			desc: "Our Recommendations are actionable and are designed to ensure you see results without delay.",
 			icon: (
 				<svg
@@ -207,13 +207,13 @@ const Features6 = () => {
 					<div className="col-lg-4 ">
 						<div className="sec-heading h8-section-heading style-4">
 							<span className="sub-title wow fadeInUp" data-wow-delay="0.3s">
-								NUMBER #1 UX AUDITOR
+							NUMBER #1 FINANCE UX AUDITOR
 							</span>
 							<h2 className="sec-title text-anim">Explore our core features</h2>
 
 							<div className="desc wow fadeInUp" data-wow-delay="0.7s">
 								<p>
-									Our mission is to enable you see your product through the eyes of your users, thereby increasing your conversion rates.
+									Our mission is to enable your FinTech product become inherently trustworthy, profoundly intuitive, and built for mass-market adoption.
 								</p>
 							</div>
 							<div className="wow fadeInUp" data-wow-delay="0.8s">

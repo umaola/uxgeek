@@ -21,10 +21,7 @@ const About8 = () => {
 								</div>
 								<div className="desc wow fadeInUp" data-wow-delay="0.5s">
 									<p>
-										Our mission is to empower businesses of all sizes
-										create products that are user-friendly and effective. The success of
-										many businesses today depends on the usability and accessibility of their product. We ensure
-										your product is designed with the user in mind, making it easy to use and navigate, leading to increased customer satisfaction and loyalty.
+										At UXGeek, we are a specialized UX consultancy for the financial technology sector in Africa. Whether you are building a mobile money platform, a crypto exchange, or a micro-lending app, we bridge the gap between complex financial architecture and seamless user experiences. We help founders stop losing money to customer acqusition and start building digital financial products that actually scale.
 									</p>
 								</div>
 								<div

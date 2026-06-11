@@ -49,6 +49,7 @@ const Header = ({ headerType, isHeaderTop, topbarType, isStickyHeader }) => {
 						? ""
 						: "header-absolute"
 				}`}
+				suppressHydrationWarning
 			>
 				{isHeaderTop ? <HeaderTop type={topbarType} /> : ""}
 				<div className="header-bottom">

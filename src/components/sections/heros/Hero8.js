@@ -53,8 +53,8 @@ const Hero8 = () => {
 										<i className="tji-arrow-bown"></i>
 									</div>
 									<p>
-										Transform your product with expert auditing
-										services today.
+										The ROI-driven UX partner for African Fintech
+										and Banking services.
 									</p>
 								</div>
 								<div
