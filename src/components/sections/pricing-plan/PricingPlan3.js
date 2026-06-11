@@ -21,7 +21,7 @@ const PricingPlan3 = () => {
 										PRICING PLAN
 									</span>
 									<h2 className="sec-title text-anim">
-										Flexible pricing, powerful tangible results
+										Built for African fintech reality
 									</h2>
 								</div>
 
@@ -79,7 +79,7 @@ const PricingPlan3 = () => {
 											</span>
 											<span className="dollar">$</span>
 											<span className="price-number">
-												1000
+												799
 											</span>
 											
 										</div>
@@ -106,7 +106,7 @@ const PricingPlan3 = () => {
 											</span>
 											<span className="dollar">$</span>
 											<span className="price-number">
-												3000
+												2,199
 											</span>
 											
 										</div>
@@ -133,7 +133,7 @@ const PricingPlan3 = () => {
 											</span>
 											<span className="dollar">$</span>
 											<span className="price-number">
-												5000
+												4,499
 											</span>
 											
 										</div>
@@ -153,7 +153,7 @@ const PricingPlan3 = () => {
 
 										<ul className="features">
 											<li className="active">
-												<i className="tji-double-check"></i> Product discovery session
+												<i className="tji-double-check"></i> Onboarding & KYC flow review
 											</li>
 											<li className="active">
 												<i className="tji-double-check"></i> 1-2 Stakeholder interviews
@@ -202,13 +202,13 @@ const PricingPlan3 = () => {
 												<i className="tji-double-check"></i> Competitive UX benchmarking (2 competitors)
 											</li>
 											<li className="active">
-												<i className="tji-double-check"></i> Conversion path analysis
+												<i className="tji-double-check"></i> Onboarding & retention analysis
 											</li>
 											<li className="active">
-												<i className="tji-double-check"></i> Remote Usability testing by 5 participants
+												<i className="tji-double-check"></i> Remote Usability testing by 5 real users
 											</li>
 											<li className="active">
-												<i className="tji-double-check"></i> High-fidelity UI design (up to 10 screens)
+												<i className="tji-double-check"></i> Trust & drop-off diagnosis
 											</li>
 											<li className="active">
 												<i className="tji-double-check"></i> Advanced UX strategy document
@@ -242,26 +242,26 @@ const PricingPlan3 = () => {
 												<i className="tji-double-check"></i> Full UX Audit sprint
 											</li>
 											<li className="active">
-												<i className="tji-double-check"></i> Journey mapping
+												<i className="tji-double-check"></i> Complete CX audit with real user sessions
 											</li>
 											<li className="active">
-												<i className="tji-double-check"></i> Advanced analytics behavior review
+												<i className="tji-double-check"></i> 12-month UX roadmap
 											</li>
 											<li className="active">
 												<i className="tji-double-check"></i> UX Maturity Assessment
 											</li>
 											<li className="active">
-												<i className="tji-double-check"></i> End-to-end product flow redesign
-											</li>
-											<li className="active">
-												<i className="tji-double-check"></i> High-fidelity UI design (up to 25 screens)
+												<i className="tji-double-check"></i> African market user persona development
 											</li>
 											<li className="active">
 												<i className="tji-double-check"></i> Design system foundation
 											</li>
 											<li className="active">
-												<i className="tji-double-check"></i> Personalized Executive UX presentation deck
+												<i className="tji-double-check"></i> Investor-ready UX narrative
 											</li>
+											{/* <li className="active">
+												<i className="tji-double-check"></i> Personalized Executive UX presentation deck
+											</li> */}
 											<li className="active">
 												<i className="tji-double-check"></i> 60 days strategic advisory support
 											</li>
@@ -307,7 +307,7 @@ const PricingPlan3 = () => {
 											<div>
 												<span className="dollar">$</span>
 												<span className="price-number">
-													1000
+													799
 												</span>
 											</div>
 											
@@ -324,7 +324,7 @@ const PricingPlan3 = () => {
 
 											<ul className="features">
 											<li className="active">
-												<i className="tji-double-check"></i> Product discovery session
+												<i className="tji-double-check"></i> Onboarding & KYC flow review
 											</li>
 											<li className="active">
 												<i className="tji-double-check"></i> 1-2 Stakeholder interviews
@@ -391,7 +391,7 @@ const PricingPlan3 = () => {
 											<div>
 												<span className="dollar">$</span>
 												<span className="price-number">
-													3000
+													2,199
 												</span>
 											</div>
 											
@@ -414,13 +414,13 @@ const PricingPlan3 = () => {
 												<i className="tji-double-check"></i> Competitive UX benchmarking (2 competitors)
 											</li>
 											<li className="active">
-												<i className="tji-double-check"></i> Conversion path analysis
+												<i className="tji-double-check"></i> Onboarding & retention analysis
 											</li>
 											<li className="active">
-												<i className="tji-double-check"></i> Remote Usability testing by 5 participants
+												<i className="tji-double-check"></i> Remote Usability testing by 5 real users
 											</li>
 											<li className="active">
-												<i className="tji-double-check"></i> High-fidelity UI design (up to 10 screens)
+												<i className="tji-double-check"></i> Trust & drop-off diagnosis
 											</li>
 											<li className="active">
 												<i className="tji-double-check"></i> Advanced UX strategy document
@@ -474,7 +474,7 @@ const PricingPlan3 = () => {
 											<div>
 												<span className="dollar">$</span>
 												<span className="price-number">
-													5000
+													4,499
 												</span>
 											</div>
 											
@@ -494,26 +494,26 @@ const PricingPlan3 = () => {
 												<i className="tji-double-check"></i> Full UX Audit sprint
 											</li>
 											<li className="active">
-												<i className="tji-double-check"></i> Journey mapping
+												<i className="tji-double-check"></i> Complete CX audit with real user sessions
 											</li>
 											<li className="active">
-												<i className="tji-double-check"></i> Advanced analytics behavior review
+												<i className="tji-double-check"></i> 12-month UX roadmap
 											</li>
 											<li className="active">
 												<i className="tji-double-check"></i> UX Maturity Assessment
 											</li>
 											<li className="active">
-												<i className="tji-double-check"></i> End-to-end product flow redesign
-											</li>
-											<li className="active">
-												<i className="tji-double-check"></i> High-fidelity UI design (up to 25 screens)
+												<i className="tji-double-check"></i> African market user persona development
 											</li>
 											<li className="active">
 												<i className="tji-double-check"></i> Design system foundation
 											</li>
 											<li className="active">
-												<i className="tji-double-check"></i> Personalized Executive UX presentation deck
+												<i className="tji-double-check"></i> Investor-ready UX narrative
 											</li>
+											{/* <li className="active">
+												<i className="tji-double-check"></i> Personalized Executive UX presentation deck
+											</li> */}
 											<li className="active">
 												<i className="tji-double-check"></i> 60 days strategic advisory support
 											</li>
