@@ -164,19 +164,19 @@
 		"submenu": [
 			{
 				"id": 1,
-				"name": "UX Audit and Consultation",
+				"name": "Onboarding & KYC UX Audit",
 				"icon": "tji-optimization",
 				"path": "/services/1"
 			},
 			{
 				"id": 2,
-				"name": "Usability Testing",
+				"name": "Trust Testing",
 				"icon": "tji-strategic",
 				"path": "/services/2"
 			},
 			{
 				"id": 3,
-				"name": "UX Maturity Assessment",
+				"name": "Trust Consulting",
 				"icon": "tji-leadership",
 				"path": "/services/3"
 			},
@@ -196,7 +196,7 @@
 				"id": 6,
 				"name": "UX Team Training",
 				"icon": "tji-process",
-				"path": "/services/1"
+				"path": "/services/6"
 			}
 		]
 	},

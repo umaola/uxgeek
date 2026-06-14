@@ -12,7 +12,7 @@ const About11 = () => {
 									About UX Geek
 								</span>
 								<h2 className="sec-title text-anim">
-									Enabling stakeholders see their product through the eyes of their clients.
+									Empowering FinTech founders to see their product through the eyes of the their consumers
 								</h2>
 							</div>
 						</div>
@@ -20,14 +20,7 @@ const About11 = () => {
 					<div className="col-lg-6 col-md-12">
 						<div className="desc mb-30 wow fadeInUp" data-wow-delay="0.3s">
 							<p>
-								Founded in wisdom, established in understanding, and through wisdom,
-								UX Geek synthesizes evidence and makes informed UX recommendations.
-								Reducing jargon and demystifying, we treat UX as strategic problem solving, rather than focusing on producing deliverables. 
-								We help stakeholders think clearly, prioritize effectively, and make informed evidence-baseddecisions that lead to better user experiences and business outcomes.
-							</p>
-							<p>
-								UX Geek is committed to delivering exceptional value through our
-								strategic insights, innovative approaches, and deep understanding of user needs.
+								Founded in wisdom, established in understanding, and through wisdom, UX Geek cuts through the product jargon to treat FinTech UX as a strategic business growth engine. We engineer Trust Architecture and stop the leaks in your product. By translating localized user research into structural UX blueprints, we help African FinTech leaders fix drop-offs, navigate complex regulatory compliance, and make evidence-based decisions that protect Customer Acquisition Cost (CAC) and maximize Lifetime Value (LTV).
 							</p>
 						</div>
 						<div className="about-btn wow fadeInUp" data-wow-delay="0.5s">

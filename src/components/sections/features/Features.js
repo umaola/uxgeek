@@ -15,8 +15,8 @@ const Features = ({ type }) => {
 	);
 	const features = [
 		{
-			title: "In-depth research",
-			desc: "Our team of experts conducts in-depth user qualitative and quantitative research.",
+			title: "Transaction Usability",
+			desc: "Our experts conduct remote and localized usability testing for your transaction flows.",
 			icon: (
 				<svg
 					width="81"
@@ -62,8 +62,8 @@ const Features = ({ type }) => {
 			),
 		},
 		{
-			title: "Expert advice",
-			desc: "Our consultancy excels in providing expert advice tailored to your business challenges",
+			title: "Trust Consulting",
+			desc: "We bridge the gap between complex financial data and human psychology",
 			icon: (
 				<svg
 					width="80"
@@ -123,8 +123,8 @@ const Features = ({ type }) => {
 			),
 		},
 		{
-			title: "Strategic planning",
-			desc: "We offer a personalized UX report & strategy tailored to your user and business needs.",
+			title: "Strategic Planning",
+			desc: "We offer a personalized UX strategy tailored to your user and Fintech needs.",
 			icon: (
 				<svg
 					width="80"
@@ -157,7 +157,7 @@ const Features = ({ type }) => {
 			),
 		},
 		{
-			title: "Efficient operations",
+			title: "Efficient Operations",
 			desc: "Our Recommendations are actionable and are designed to ensure you see results without delay.",
 			icon: (
 				<svg

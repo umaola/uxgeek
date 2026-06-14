@@ -14,7 +14,7 @@ import ClientWrapper from "@/components/shared/wrappers/ClientWrapper";
 export default function About() {
 	return (
 		<div>
-			<Header  isHeaderTop={true} topbarType={4} />
+			<Header isHeaderTop={true} topbarType={4} />
 			<Header isStickyHeader={true} />
 			<main>
 				<HeroInner title={"About"} text={"About"} />
@@ -24,7 +24,7 @@ export default function About() {
 				{/* <Team8 /> */}
 				<Skills1 />
 				<Testimonials2 type={3} />
-				<Brands1 />
+				{/* <Brands1 /> */}
 				<Cta1 />
 			</main>
 			<Footer8 footerType={"inner"} />

@@ -41,6 +41,7 @@ export default function RootLayout({ children }) {
 			lang="en"
 			data-scroll-behavior="smooth"
 			className={`${lato.variable} ${libreFranklin.variable}`}
+			suppressHydrationWarning
 		>
 			<body>
 				{children}

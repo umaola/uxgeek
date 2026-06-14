@@ -11,6 +11,7 @@ import PricingPlan3 from "@/components/sections/pricing-plan/PricingPlan3";
 import Process4 from "@/components/sections/process/Process4";
 import Contact1 from "@/components/sections/contacts/Contact1";
 import Services8 from "@/components/sections/services/Services8";
+import ProductCategories8 from "@/components/sections/features/ProductCategories8";
 // import Team5 from "@/components/sections/teams/Team5";
 import Testimonials7 from "@/components/sections/testimonials/Testimonials7";
 import FeatureMarquee3 from "@/components/shared/marquee/FeatureMarquee3";
@@ -27,9 +28,11 @@ export default function Home8() {
 				<Hero8 />
 				<Features6 />
 				<FeatureMarquee3 />
+				<ProductCategories8 />
+				<Process4 />
 				<About8 />
 				<Services8 />
-				<Process4 />
+
 				{/* <Cta6 /> */}
 				<Contact1 />
 				<PricingPlan3 />
@@ -42,7 +45,7 @@ export default function Home8() {
 			<Footer8 />
 			<ClientWrapper />
 			<TjMagicCursor />
-			<SpeedInsights/>
+			<SpeedInsights />
 		</div>
 	);
 }

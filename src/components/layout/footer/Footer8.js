@@ -42,7 +42,12 @@ const Footer8 = () => {
 										</li>
 										<li>
 											<Link target="_blank" rel="noopener noreferrer" href="https://x.com/">
-												<i className="fa-brands fa-tiktok"></i>
+												<i className="fa-brands fa-x-twitter"></i>
+											</Link>
+										</li>
+										<li>
+											<Link target="_blank" rel="noopener noreferrer" href="https://medium.com/">
+												<i className="fa-brands fa-medium"></i>
 											</Link>
 										</li>
 										<li>
@@ -62,13 +67,13 @@ const Footer8 = () => {
 								<div className="widget-menu">
 									<ul>
 										<li>
-											<Link href="/services/1">UX Audit and Consultation</Link>
+											<Link href="/services/1">Onboarding & KYC UX Audit</Link>
 										</li>
 										<li>
-											<Link href="/services/2">Usability Testing</Link>
+											<Link href="/services/2">Trust Testing</Link>
 										</li>
 										<li>
-											<Link href="/services/3">UX Maturity Assessment</Link>
+											<Link href="/services/3">Trust Consulting</Link>
 										</li>
 										<li>
 											<Link href="/services/4">Customized User Research</Link>

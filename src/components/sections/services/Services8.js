@@ -34,7 +34,7 @@ const Services8 = () => {
 									</div> */}
 									<div className="h8-services-left-content">
 										<h2 className="title text-anim">
-											Services Built for <span>Business</span> goal Success
+											Services Built for <span>Fintech</span> goal Success
 										</h2>
 										<div className="wow fadeInUp" data-wow-delay="0.7s">
 											<ButtonPrimary
